@@ -1,6 +1,6 @@
 # SimpleNetCat
 
-This is the first individual project of NCSU ECE 574 in 2020 Spring semester.
+This is the first individual project of NCSU ECE 574 (Computer & Network Security) in 2020 Spring semester.
 
 The project is to provide *confidentiality* and *integrity* in a simple version of [NetCat](https://www.freebsd.org/cgi/man.cgi?nc) - a Simple Encrypted File Transfer Program.
 
